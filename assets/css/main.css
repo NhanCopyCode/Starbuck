@@ -1,0 +1,26 @@
+.background-white {
+    background-color: #fff;
+}
+
+.background-black {
+    background-color: black;
+}
+
+.btn {
+    border: 1px solid #000;
+    padding: 6px 16px;
+    border-radius: 30px;
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.two {
+    color: white;
+}
+/* Grid */
+
+.grid-pc {
+    max-width: 1440px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
